@@ -1,0 +1,13 @@
+body{
+    background-image:url(sunrise.jpg) ;
+    font-family: sans-serif;
+}
+hr{
+    height: 10px; 
+    color: black ;
+    background-color:black ;
+}
+h1,h2,h3,h4{
+    text-align:center ;
+    color:white ;
+}
